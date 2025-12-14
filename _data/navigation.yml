@@ -1,4 +1,7 @@
 # main links
+navigation:
+  main: main
+  
 main:
   - title: "홈"
     url: /
