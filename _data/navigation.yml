@@ -1,12 +1,10 @@
 # main links
-navigation:
-  main: main
-  
+
 main:
   - title: "홈"
     url: /
   - title: "소개"
-    url: /
+    url: /about/
   - title: "글"
     url: /year-archive/
   # - title: "Sample Collections"
